@@ -19,8 +19,7 @@
 
 .navbar .nav {
     max-width: 1200px;
-    /* min-width: 1200px; */
-    position: relative; /*it is going to change its position relativ there parent */
+    position: relative; 
     margin: 0 auto;
     height: 80px;
     display: flex;
@@ -226,7 +225,7 @@
 .place-name{
     font-size: 17px;
     font-weight: 500;
-    word-break: break-word;  /*bring the text next line*/
+    word-break: break-word;  
 }
 
 .place-name .food-items{
@@ -316,7 +315,6 @@
 .footer-content{
     display: flex;
     justify-content: space-around;
-    /* background-color: #000000; */
     margin: 0 auto;
     padding: 75px 0;
     max-width: 1200px;
@@ -384,7 +382,6 @@
         position: fixed;
         height: 130px;
         width: 750px;
-        background-color: #000;
     }
 
     .nav .nav-left{
